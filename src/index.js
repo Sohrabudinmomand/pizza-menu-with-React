@@ -1,3 +1,4 @@
+// this how we import the other parts of the project
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
